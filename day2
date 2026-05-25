@@ -1,0 +1,54 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>SIMPLE PROFILE CARD </title>
+<style>
+      body{
+          background-color : #fof2f5;
+          font-family: Arial;
+          display: flex;
+          justify-content : center ;
+          align-items : center;
+          height : 100vh;
+    }   
+.card {
+background :white;
+width :300px;
+padding: 20px;
+border-radius :15px;
+text-align: center ;
+box -shadow :opx 4px 10px gray;
+}
+.card img{
+width: 100px;
+border -radius:50%;
+}
+.card h2{
+color :#333;
+}
+.card p{
+color: #777;
+}
+.btn{
+background: blue;
+color: white;
+padding: 10px 20px;
+border-radius: 8px;
+cursor: pointer;
+}
+.btn:hover{
+background; darkblue;
+}
+</style>
+</head>
+<body>
+<div class="card">
+<img
+src="https://via.placeholder.com/100"
+alt="profile">
+<h2>mahesh</h2>
+<p> frontend Developer</p>
+<button class="btn">follow</button>
+</div>
+</body>
+</html>
