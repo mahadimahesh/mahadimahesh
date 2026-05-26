@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>javascript Demo</title>
+</head>
+<body>
+<h2 id="text">Hello buddy!</h2>
+<button onclick="changeText()">
+Clicl Me
+<button>
+<script> 
+function changeText () {
+document.getElementById("text").innerHTML
+= "Text changed  ";
+}
+</script>
+</body>
+<h6>day to day improving ur skills main thing is believe yourself </h6>
+</html>
