@@ -6,8 +6,8 @@
 <body>
 <h2 id="text">Hello buddy!</h2>
 <button onclick="changeText()">
-Clicl Me
-<button>
+Click Me
+</button>
 <script> 
 function changeText () {
 document.getElementById("text").innerHTML
