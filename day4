@@ -1,0 +1,47 @@
+let studentName = "Mahesh";
+let telugu = 85;
+let english = 78;
+let maths = 92;
+let science =88;
+let social =80;
+// total marks calculation
+let total = telugu + english + maths + science + social ;
+// average calculations 
+let average = total / 5;
+console.log("student Name: " + studentName );
+console.log("Telugu marks: " + telugu);
+console.log("English marks: " + english);
+console.log("maths marks: " + maths);
+console.log("science marks: " + science);
+console.log("social marks: " + social);        
+console.log("total marks: " + total);
+console.log("average marks: " + average);
+//grade calculation 
+if (average >= 90){
+   console.log("grade: A+");
+}
+    else if (average >= 75) {
+      console.log("grade: A");
+    }(
+        else if (average >= 60){
+          console.log("grade: B");
+          )
+            else if (average >= 40){
+            console.log("grade: c");
+            //loop example
+            console.log(" Subeject List:");
+            let subjects =["telugu", "English", "maths", "Science", "Social"];
+            for (let i =0; i<= subjects length; i++)
+            {
+              console.log(subjects[i]);
+            }
+            //function example 
+            function greetStudent(name) {
+              console.log("Welcome " + name + "!");
+            }
+            greatstudent(studentName);
+            console.log("day four class completed");
+          
+          
+
+      
