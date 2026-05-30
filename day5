@@ -1,0 +1,45 @@
+<!DOCTYPE Html>
+  <html>
+  <head>
+  <title> MY  WEBPAGE </title>
+  <style>
+  body {
+  font-family: Arial,
+  sans-serif; 
+  background-color:lightblue;
+  text-align: center;
+  margin-top:100px;
+}
+.box {
+  background-color :white;
+  width:300px;
+  margin:auto;
+  padding:20px ;
+  border-radius:10px;
+  box-shadow:opx opx 10px gray;
+}
+h1{
+  color :darkblue;
+}
+button {
+  background-color : green;
+  color: white;
+  padding: 10px 20px;
+  border :none;
+  border-radius:5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: darkgreen;
+}
+</style>
+  </head>
+  <body>
+  <div class="box">
+  <h1>HELLO BUDDY</h1>
+  <p>this page is created using html and css <p>
+  <button>Click Me</button>
+  </div>
+  </body>
+  </html>
+  
