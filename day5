@@ -16,7 +16,7 @@
   margin:auto;
   padding:20px ;
   border-radius:10px;
-  box-shadow:opx opx 10px gray;
+  box-shadow:0px 0px 10px gray;
 }
 h1{
   color :darkblue;
@@ -37,7 +37,7 @@ button:hover {
   <body>
   <div class="box">
   <h1>HELLO BUDDY</h1>
-  <p>this page is created using html and css <p>
+  <p>this page is created using html and css </p>
   <button>Click Me</button>
   </div>
   </body>
