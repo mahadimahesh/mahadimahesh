@@ -1,0 +1,27 @@
+//student grade calculator 
+let studentName ="mahadi mahesh";
+let marks =[85, 78, 92, 88, 80];
+let total =0;
+for (let i = 0; i < marks.length; i++) {
+  total += marks[i];
+}
+let average = total / marks.length;
+console.log("Student:", studentName);
+console.log("total Marks:",total);
+console.log("Average:",average);
+            if(average >=90) {
+              console.log("Grad: A+");
+            }
+            else if (average >= 80) {
+              console.log("Grad: A");
+            }
+            else if (average >= 70) {
+              console.log("Grade: B");
+            }
+            else if (average >= 60) {
+              console.log("Grade: c");
+            }
+            else {
+              console.log ("Grade: Fail");
+            }
+            console.log("result generated successfully");
