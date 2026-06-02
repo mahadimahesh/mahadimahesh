@@ -1,0 +1,26 @@
+//student object 
+const student = {
+  name: "mahadi mahesh",
+  age: 23,
+  course: "MCA",
+  displayInfo: function () {
+    console.log("Name: " + this.name);
+    console.log("age: " +this.age);
+    console.log("course: " + this.course);
+  }
+};
+//object properties access
+console.log(student.name);
+console.log(student.age);
+//Method call
+student.displayInfo()
+  //variables 
+  let studentname ="mahadi mahesh";
+const studentage = 23;
+var city ="rajahmundry";
+//data types 
+let name ="mahadi mahesh" //string
+  let age = 23;//number 
+let isafreesher = true;
+let x =null; //Null
+let y; //undefined 
