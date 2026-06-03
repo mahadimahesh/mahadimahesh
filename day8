@@ -24,3 +24,11 @@ let name ="mahadi mahesh" //string
 let isafreesher = true;
 let x =null; //Null
 let y; //undefined 
+//type conversations 
+let num = "100"; //string 
+let result = Number(num);
+console.log(result);//100 
+console.log(typeof result);// number 
+//automatic Type conversion 
+console.log("5"+2);
+console.log("5"-2);
