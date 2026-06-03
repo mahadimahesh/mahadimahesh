@@ -1,0 +1,32 @@
+// CSS and HTML 
+<DOCTYPE Html>
+  <html>
+  <head>
+  <style>
+  body{
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+.card {
+  width: 250px;
+  margin: auto;
+  padding: 2opx;
+  border-radius: 10px;
+  background-color: lightblue;
+  box-shadow: 0 4px 8px rgba(0,0,0,0,2);
+}
+h2 {
+  color: navy;
+}
+p {
+  color: #333;
+}
+</style>
+  </head>
+  </body>
+  <div class="card">
+  <h2>hello buddy</h2>
+  <p>welcome to Html and CSS.</p>
+  </body>
+  </html>
