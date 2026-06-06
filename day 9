@@ -42,3 +42,15 @@ return a + b;
 {
 let result =add(10,20);
 console.log(result);
+//student management system 
+const student = [
+{name: "mahadi", marks: 85 }
+{name: "vishnu", marks: 95 }
+{name: "aji", marks: 72}
+{name: "roji", marks: 90}
+]
+const passed student =students.filter(student => student .marks >= 50);
+console.log("passed students:");
+passed students.forEach(student => {
+console.log(`${student.name} - ${student.marks}`);
+})
