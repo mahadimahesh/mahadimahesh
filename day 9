@@ -54,3 +54,12 @@ console.log("passed students:");
 passed students.forEach(student => {
 console.log(`${student.name} - ${student.marks}`);
 })
+//average marks 
+const totalMarks =student.reduce( sum, student ) => sum + student.marks, 0);
+const average = toatalMarks / student.length;
+console.log("Average Marks:",average);
+//highest Marks
+const topper = students.reduce ((top,student) =>
+student.marks > top.marks? 
+student : top );
+console.log("topper:",topper.name,"_", topper.marks);
