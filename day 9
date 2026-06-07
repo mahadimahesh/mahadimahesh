@@ -63,3 +63,22 @@ const topper = students.reduce ((top,student) =>
 student.marks > top.marks? 
 student : top );
 console.log("topper:",topper.name,"_", topper.marks);
+//java script basics 
+let name ="mahadi";
+const surname ="akurathi";
+var last name ="narayana murthy ";
+//Data Types 
+{  
+string 
+number 
+boolean
+Null
+undefined 
+}
+let str ="javascript";
+console.log(str.length);
+let str ="mahadi mahesh narayana murthy ";
+console.log(str.length);
+let str ="mahadi mahesh narayana murthy hallo";
+console.log(str.length);
+console.log(str.replace("hallo"," definatly one day he become a software developer"));
