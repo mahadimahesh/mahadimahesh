@@ -104,4 +104,6 @@ console.log ("Even number");
 } else {
 console.log("Odd number");
 }
+//arrays 
+let fruits = ["Apple", "Mango", "Banana", "Orange"];
 
