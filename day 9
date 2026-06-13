@@ -105,7 +105,7 @@ console.log ("Even number");
 console.log("Odd number");
 }
 //arrays 
-let fruits = ["Apple", "Mango", "Banana", "Orange"];
+let fruits = ["Apple", "Mango", "Banana", "Orange","grapes"];
 fruits.pop();
 fruits.push();
 fruits.shift();
