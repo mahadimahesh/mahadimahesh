@@ -111,6 +111,6 @@ fruits.push();
 fruits.shift();
 fruits.unshift();
 console.log(fruits);
-
+console.log(fruits);
 
 
