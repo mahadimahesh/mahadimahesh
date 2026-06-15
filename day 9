@@ -67,7 +67,7 @@ console.log("topper:",topper.name,"_", topper.marks);
 let name ="mahadi";
 const surname ="akurathi";
 var last name ="narayana murthy ";
-//Data Types 
+//Data Types in java script
 {  
 string 
 number 
