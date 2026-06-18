@@ -110,6 +110,6 @@ fruits.pop();
 fruits.push();
 fruits.shift();
 fruits.unshift();
-console.log(fruits);
+
 
 
