@@ -115,6 +115,16 @@ let numbers = [10, 20, 30, 40, 50];
 for(let i = 0; i < numbers.length; i++) {
 console.log(numbers[i]);
 }
+//arrys 
+let numbers = [25, 10, 45, 5, 3, 30];
+let smallest = numbers[0];
+for(let i =1; i < numbers.length; i++);
+{
+if (numbers[i] < smallest) {
+smallest = numbers[i];
+}
+}
+console.log("smallest Number =" + smallest);
 
 
 
