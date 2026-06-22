@@ -116,7 +116,7 @@ for(let i = 0; i < numbers.length; i++) {
 console.log(numbers[i]);
 }
 //arrys 
-let numbers = [25, 10, 45, 5, 3, 30];
+let numbers = [25, 10, 45, 5, 3, 30, 50, 2, 1];
 let smallest = numbers[0];
 for(let i =1; i < numbers.length; i++);
 {
