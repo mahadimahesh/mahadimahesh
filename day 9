@@ -124,8 +124,70 @@ if (numbers[i] < smallest) {
 smallest = numbers[i];
 }
 }
+//html code 
 console.log("smallest Number =" + smallest);
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Profile Card</title>
 
+    <style>
+        body{
+            background-color: lightblue;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 100px;
+        }
+
+        .card{
+            background-color: white;
+            width: 300px;
+            margin: auto;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px gray;
+        }
+
+        h1{
+            color: darkblue;
+        }
+
+        p{
+            color: gray;
+        }
+
+        button{
+            background-color: green;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover{
+            background-color: darkgreen;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div class="card">
+
+        <h1>Mahesh</h1>
+
+        <p>MCA Graduate</p>
+
+        <p>Learning HTML, CSS and JavaScript</p>
+
+        <button>Contact Me</button>
+
+    </div>
+
+</body>
+</html>
 
 
 
