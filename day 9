@@ -180,7 +180,7 @@ console.log("smallest Number =" + smallest);
 
         <p>MCA Graduate</p>
 
-        <p>Learning HTML, CSS and JavaScript</p>
+        <p>Learning HTML </p>
 
         <button>Contact Me</button>
 
