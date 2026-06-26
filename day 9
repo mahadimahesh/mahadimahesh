@@ -188,6 +188,11 @@ console.log("smallest Number =" + smallest);
 
 </body>
 </html>
+//linex code important shortcuts 
+ctrl + c -> running command stop
+ctrl + L ->terminal clear 
+ctrl + D logout/exit terminal 
+tab -> auto complete command or filename 
 
 
 
