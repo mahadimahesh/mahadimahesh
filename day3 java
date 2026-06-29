@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- <title>javascript Demo</title>
+ <title>basic javascript Demo</title>
 </head>
 <body>
 <h2 id="text">Hello buddy!</h2>
@@ -11,7 +11,7 @@ Click Me
 <script> 
 function changeText () {
 document.getElementById("text").innerHTML
-= "Text changed  ";
+= "Text changed ";
 }
 </script>
 </body>
