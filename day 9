@@ -187,6 +187,7 @@ console.log("smallest Number =" + smallest);
     </div>
 
 </body>
+<p>data </p>
 </html>
 //linex code important shortcuts 
 ctrl + c -> running command stop
