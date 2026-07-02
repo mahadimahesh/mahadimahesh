@@ -192,8 +192,9 @@ console.log("smallest Number =" + smallest);
 //linex code important shortcuts 
 ctrl + c -> running command stop
 ctrl + L ->terminal clear 
-ctrl + D logout/exit terminal 
-tab -> auto complete command or filename 
+ctrl + D logout/exit terminal ... to  be continue
+
+
 
 
 
