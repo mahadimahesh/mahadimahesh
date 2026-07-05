@@ -194,6 +194,35 @@ ctrl + c -> running command stop
 ctrl + L ->terminal clear 
 ctrl + D logout/exit terminal ... to  be continue
 and the next day is the sunday .. so its time to sleep 
+LINEX
+#show current user 
+whoami
+#show username, kernal, systeam details 
+uname -
+#show hostname
+hostname
+#show current path 
+pwd
+#List files 
+ls
+#long listing 
+ls -l
+#current file
+touch demo.txt 
+#write text into files 
+echo "hello Linex" > demo.txt 
+#read file
+cat demo.txt 
+#append text 
+echo "welcome">>demo.txt
+#count lines ,words ,characters 
+wc demo.txt 
+#sort file contents 
+sort demo.txt 
+#show first 5 lines
+head -5 demo.txt
+
+
 
 
 
