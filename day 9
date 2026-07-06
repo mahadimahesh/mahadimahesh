@@ -221,6 +221,8 @@ wc demo.txt
 sort demo.txt 
 #show first 5 lines
 head -5 demo.txt
+##the SIR servey still continue so today i take holiday 
+
 
 
 
