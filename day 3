@@ -1,2 +1,7 @@
 pythone code practice today is the day one 
 print("hello mahadi mahesh");
+print("welcome to the python classes ");
+print("today is the day 1");
+variables are use to store data 
+name = "mahesh";
+age =23 
