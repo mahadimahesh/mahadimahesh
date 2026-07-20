@@ -4,4 +4,4 @@ print("welcome to the python classes ");
 print("today is the day 1");
 variables are use to store data 
 name = "mahesh";
-age =23 
+age =25
