@@ -13,3 +13,16 @@ print(age)
 height =float(input("what is your hight"))
 print(height)
 print("mahadi mahesh is",height,"inches")
+a = 4
+b = 5
+print(a + b)
+a = 7 
+b = 9
+print(a + b)
+a = 5
+b = 3
+print(a - b)
+print(a * b)
+print(a // b)
+print(a % b)
+print(a ** b)
