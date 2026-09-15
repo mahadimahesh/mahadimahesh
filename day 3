@@ -25,5 +25,4 @@ print(a - b)
 print(a * b)
 print(a // b)
 print(a % b)
-print(a ** b)
-
+print(a ** b)after long gap i again open my github reposetery 
