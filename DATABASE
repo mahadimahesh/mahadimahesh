@@ -1,0 +1,5 @@
+my target is learning thr oracle date base and PL and SQL
+SELECT *
+from table_name ;
+SELECT *
+restrinct from table_name;
