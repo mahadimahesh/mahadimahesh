@@ -3,3 +3,22 @@ SELECT *
 from table_name ;
 SELECT *
 restrinct from table_name;
+EMPLOYEES
++--------+--------+------------+--------+-----------+
+| EMP_ID | NAME   | DEPARTMENT | SALARY | CITY      |
++--------+--------+------------+--------+-----------+
+| 101    | Ravi   | IT         | 35000  | Hyderabad |
+| 102    | Sita   | HR         | 28000  | Chennai   |
+| 103    | Kiran  | IT         | 45000  | Hyderabad |
+| 104    | Priya  | Sales      | 30000  | Bengaluru |
+| 105    | Arun   | HR         | 35000  | Chennai   |
+| 106    | Divya  | IT         | 50000  | Bengaluru |
+| 107    | Ramesh | Sales      | 40000  | Hyderabad |
+| 108    | Anu    | IT         | 35000  | Chennai   |
++--------+--------+------------+--------+-----------+
+SELECT *
+FROM EMPLOYEES
+SELECT NAME, SALARY
+FROM EMPLOYEES
+SELECT 
+DISTINCT DEPARTMENT FROM EMPLOYEES
